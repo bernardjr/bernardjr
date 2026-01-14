@@ -44,6 +44,9 @@ Full-stack platform built with Spring Boot, Angular, and MySQL to support non-pr
 **[TypeVision](https://github.com/bernardjr/TypeVision)** — *Touch Typing Trainer with Eye Tracking*  
 Web-based typing trainer using computer vision (MediaPipe, WebGazer.js) to detect when users look at their keyboard. Includes XP progression, achievements, and gamification features.
 
+**[AWS ETL Pipeline](https://github.com/bernardjr/aws-etl-pipeline)** — *Serverless Data Lake*  
+ETL pipeline built with AWS Lambda and S3 that transforms JSON order data into a scalable data lake. Event-driven architecture with automated processing and CloudWatch monitoring.
+
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernard-jr-valcin%C3%A9-718533202/)
