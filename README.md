@@ -47,6 +47,9 @@ Web-based typing trainer using computer vision (MediaPipe, WebGazer.js) to detec
 **[AWS ETL Pipeline](https://github.com/bernardjr/aws-etl-pipeline)** — *Serverless Data Lake*  
 ETL pipeline built with AWS Lambda and S3 that transforms JSON order data into a scalable data lake. Event-driven architecture with automated processing and CloudWatch monitoring.
 
+**[Zonin](https://github.com/bernardjr/zonin)** — *ConUHacks X*  
+Smart focus companion app with real-time biometric monitoring for Driving, Study, and Pomodoro modes. Features AI-powered relaxation coaching via Gemini API, session analytics, and heart rate tracking built with Expo, NestJS, MongoDB Atlas, and AWS.
+
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernard-jr-valcin%C3%A9-718533202/)
