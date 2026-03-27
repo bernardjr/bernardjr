@@ -4,6 +4,7 @@
 
 🏆 **Runner-up** at Morgan Stanley's Code to Give 2025 Hackathon  
 🎖️ **AWS Certified Cloud Practitioner**
+🎖️ **AWS Certified Data Engineer**
 
 ## 🛠️ Tech Stack
 
